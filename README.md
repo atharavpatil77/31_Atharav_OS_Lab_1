@@ -27,6 +27,11 @@
  ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/b692b031-bbf2-4e96-8c53-166467b2cd9b)
 
  `cp`: Copy a file or directory from one location to another.
+
+
+
+ ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/33bd14b5-d8c8-46ce-b41d-f2cfa2bea234)
+
  `rm`: Remove a file or directory.
  `mv`: Move or rename a file or directory.
  `more`: Display the contents of a file page by page.
