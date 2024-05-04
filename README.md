@@ -19,6 +19,13 @@
  ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/d00048e3-52b8-43e0-a41a-407e5db2aa6e)
 
  `rmdir`: Remove an empty directory.
+
+
+
+
+
+ ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/b692b031-bbf2-4e96-8c53-166467b2cd9b)
+
  `cp`: Copy a file or directory from one location to another.
  `rm`: Remove a file or directory.
  `mv`: Move or rename a file or directory.
