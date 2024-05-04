@@ -57,6 +57,13 @@
  ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/4d965841-2d89-4b93-9f4f-79d4887acd42)
 
  `lpr`: Print a file on a connected printer.
+
+
+
+
+
+ ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/84894037-ef1b-43ae-b4dd-5b98d6a5d92a)
+
  `man`: Display the manual pages for a specified command.
  `grep`: Search for a specified pattern in one or more files.
  `sed`: Utilize a stream editor for filtering and transforming text.
