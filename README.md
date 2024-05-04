@@ -89,3 +89,9 @@
 
 
 
+![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/7db1d77f-b8ff-4699-8287-c644b375a569)
+
+
+
+
+
