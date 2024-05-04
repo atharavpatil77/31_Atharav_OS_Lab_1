@@ -33,6 +33,14 @@
  ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/33bd14b5-d8c8-46ce-b41d-f2cfa2bea234)
 
  `rm`: Remove a file or directory.
+
+
+
+
+
+
+ ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/c8c2d6be-f573-46f2-b9c4-78d98a5d02c9)
+
  `mv`: Move or rename a file or directory.
  `more`: Display the contents of a file page by page.
  `lpr`: Print a file on a connected printer.
