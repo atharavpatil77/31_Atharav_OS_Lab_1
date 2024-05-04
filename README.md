@@ -75,4 +75,12 @@
  ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/e5246a5e-c201-4bf5-b3b7-50ea3d01d486)
 
  `grep`: Search for a specified pattern in one or more files.
+
+
+
+
+
+
+ ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/62daefd2-c8ce-4209-8591-4c3c1aeb7950)
+
  `sed`: Utilize a stream editor for filtering and transforming text.
