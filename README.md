@@ -42,6 +42,13 @@
  ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/c8c2d6be-f573-46f2-b9c4-78d98a5d02c9)
 
  `mv`: Move or rename a file or directory.
+
+
+
+
+
+ ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/b871317a-7b77-45d8-8c76-28e48c1da872)
+
  `more`: Display the contents of a file page by page.
  `lpr`: Print a file on a connected printer.
  `man`: Display the manual pages for a specified command.
