@@ -65,5 +65,14 @@
  ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/84894037-ef1b-43ae-b4dd-5b98d6a5d92a)
 
  `man`: Display the manual pages for a specified command.
+
+
+
+
+
+
+
+ ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/e5246a5e-c201-4bf5-b3b7-50ea3d01d486)
+
  `grep`: Search for a specified pattern in one or more files.
  `sed`: Utilize a stream editor for filtering and transforming text.
