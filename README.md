@@ -3,6 +3,13 @@
  ![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/0d8d5899-ee85-4978-aa5a-ab22b345242a)
 
  `cd`: Change the current directory to a specified path.
+
+
+
+![image](https://github.com/atharavpatil77/31_Atharav_OS_Lab_manual/assets/142776774/8c87f6ae-8f81-4607-9f52-f117e48ff55e)
+
+ 
+ 
  `mkdir`: Create a new directory with a given name.
  `rmdir`: Remove an empty directory.
  `cp`: Copy a file or directory from one location to another.
